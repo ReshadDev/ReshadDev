@@ -75,3 +75,4 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <!-- BLOG-POST-LIST:END -->
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31edzemdvi6krczrt6mh4ciorrta&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
