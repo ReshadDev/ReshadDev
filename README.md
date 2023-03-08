@@ -62,18 +62,11 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ReshadDev&theme=dark)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReshadDev)](https://github.com/ReshadDev/github-readme-stats)
+![Reshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReshadDev&show_icons=true&theme=great-gatsby)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshadDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
 
-### :writing_hand: Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
-<!-- BLOG-POST-LIST:END -->
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31edzemdvi6krczrt6mh4ciorrta&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
